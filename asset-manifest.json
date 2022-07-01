@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vegapak/static/css/main.da766b46.css",
+    "main.js": "/vegapak/static/js/main.c4a86fbe.js",
+    "index.html": "/vegapak/index.html",
+    "main.da766b46.css.map": "/vegapak/static/css/main.da766b46.css.map",
+    "main.c4a86fbe.js.map": "/vegapak/static/js/main.c4a86fbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da766b46.css",
+    "static/js/main.c4a86fbe.js"
+  ]
+}
