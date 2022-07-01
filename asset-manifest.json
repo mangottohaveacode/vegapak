@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vegapak/static/css/main.da766b46.css",
-    "main.js": "/vegapak/static/js/main.c4a86fbe.js",
+    "main.css": "/vegapak/static/css/main.80610720.css",
+    "main.js": "/vegapak/static/js/main.8ea41733.js",
     "index.html": "/vegapak/index.html",
-    "main.da766b46.css.map": "/vegapak/static/css/main.da766b46.css.map",
-    "main.c4a86fbe.js.map": "/vegapak/static/js/main.c4a86fbe.js.map"
+    "main.80610720.css.map": "/vegapak/static/css/main.80610720.css.map",
+    "main.8ea41733.js.map": "/vegapak/static/js/main.8ea41733.js.map"
   },
   "entrypoints": [
-    "static/css/main.da766b46.css",
-    "static/js/main.c4a86fbe.js"
+    "static/css/main.80610720.css",
+    "static/js/main.8ea41733.js"
   ]
 }
